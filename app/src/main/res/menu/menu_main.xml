@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <!--item android:id="@+id/shareGMail"
+        android:title="GMail"
+        android:orderInCategory="70"
+        android:icon="@android:drawable/ic_dialog_email"
+        app:showAsAction="never" />
+    <item android:id="@+id/shareMail"
+        android:title="Mail"
+        android:orderInCategory="80"
+        android:icon="@android:drawable/ic_dialog_email"
+        app:showAsAction="never" />
+    <item android:id="@+id/shareFacebook"
+        android:title="Facebook"
+        android:orderInCategory="90"
+        android:icon="@android:drawable/ic_dialog_email"
+        app:showAsAction="collapseActionView" />
+    <item android:id="@+id/shareTwitter"
+        android:title="Twitter"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_dialog_email"
+        app:showAsAction="never" /-->
+</menu>
